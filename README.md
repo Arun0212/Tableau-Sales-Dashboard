@@ -21,7 +21,7 @@ This project is an interactive **Tableau Sales Dashboard** that visualizes sales
 3. **Interact** with filters to explore the insights.
 
 ## 📊 Preview
-![Dashboard Screenshot](Capture.PNG)
+![Dashboard Screenshot](https://github.com/Arun0212/Tableau-Sales-Dashboard/blob/main/Capture.PNG?raw=true)
 
 ## 🛠 Tools Used
 - **Tableau** - Data visualization
@@ -29,8 +29,8 @@ This project is an interactive **Tableau Sales Dashboard** that visualizes sales
 - **Excel/CSV** - Data source
 
 ## 📬 Contact
-📧 Email: your-email@example.com  
-💼 LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)  
+📧 Email: arunmani0212@gmail.com
+💼 LinkedIn: https://www.linkedin.com/in/arunmani1234567/
 
 ---
 🌟 If you like this project, consider giving it a ⭐ on GitHub!
